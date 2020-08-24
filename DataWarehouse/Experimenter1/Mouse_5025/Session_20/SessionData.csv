@@ -1,0 +1,7 @@
+﻿reference_frame,"Zero refers to the bottom left corner of the rig, when viewed from above"
+rate,30
+comments,Mouse fell asleep
+description,"The position of a mouse in an arena is transformed into X,Y coordinates"
+starting_time,0
+session_start_time,2019-08-02 11:17:24
+experimenter,Experimenter 1
